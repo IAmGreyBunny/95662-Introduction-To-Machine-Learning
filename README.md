@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td>
-      <a> Main.ipynb </a>
+      <a href="https://github.com/IAmGreyBunny/95662-Introduction-To-Machine-Learning/blob/main/Main.ipynb"> Main.ipynb </a>
     </td>
     <td>
       Code for data analysis, training, evaluation and data visualisations
@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td>
-      <a> Data_Generator.ipynb </a>
+      <a href="https://github.com/IAmGreyBunny/95662-Introduction-To-Machine-Learning/blob/main/Data_Generator.ipynb"> Data_Generator.ipynb </a>
     </td>
     <td>
       Code for attempted data augmentations
