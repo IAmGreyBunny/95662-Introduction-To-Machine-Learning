@@ -29,3 +29,8 @@
     </td>
   </tr>
 </table>
+
+<br>
+<br>
+<br>
+Note: Due to differences in development environments and workflows, the Git commit history does not accurately reflect the actual development timeline or distribution of work. Please refer to the latest state of the repository rather than the commit history.
